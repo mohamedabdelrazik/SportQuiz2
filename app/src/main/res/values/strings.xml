@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SportQuiz</string>
+    <string name="score">Final score</string>
+    <string name="team">What is your favorite team ?</string>
+    <string name="favTeam">Your favorite team is</string>
+    <string name="EnterTeam">Enter your favorite team name</string>
+    <string name="premierLeague">1- What is the English Premier League team in 2016 ?</string>
+    <string name="ManchesterCity">Manchester City</string>
+    <string name="ListerCity">Lister City</string>
+    <string name="Chelsea">Chelsea</string>
+    <string name="Ronaldinho">Ronaldinho</string>
+    <string name="FrankLampard">Frank Lampard</string>
+    <string name="ThierryHenry">Thierry Henry</string>
+    <string name="EnterCr">Enter Cr.7 team name</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+    <string name="yourScore">Your score is </string>
+    <string name="tryAgain">Opp!! Try again . Your score </string>
+    <string name="outOf"> out of 5</string>
+    <string name="EnterNational">Enter national team name</string>
+    <string name="bestPlayer"> 2-Who is the best player in 2005 ?</string>
+    <string name="cristiano"> 3-For any team, Cristiano Ronaldo is playing now?</string>
+    <string name="salah">4-Is Mohamed Salah win the best player in the world?</string>
+    <string name="worldCup"> 5-What is the winner of the World Cup in 2006?</string>
+</resources>

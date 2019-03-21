@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SportQuiz</string>
+    <string name="score">النتيجة النهائية</string>
+    <string name="team">ما هو فريقك المفضل ؟</string>
+    <string name="favTeam">فريقك المفضل هو</string>
+    <string name="EnterTeam">أدخل اسم فريقك المفضل</string>
+    <string name="premierLeague">1- ما هو فريق الفائز بالدوري الإنجليزي الممتاز في عام 2016؟</string>
+    <string name="ManchesterCity">مانشستر سيتي</string>
+    <string name="ListerCity">ليستر سيتي</string>
+    <string name="Chelsea">تشيلسي</string>
+    <string name="Ronaldinho">رونالدينهو</string>
+    <string name="FrankLampard">فرانك لامبرد</string>
+    <string name="ThierryHenry">تيري هنري</string>
+    <string name="EnterCr">ادخل فريق كرستيانو</string>
+    <string name="Yes">نعم</string>
+    <string name="No">لا</string>
+    <string name="yourScore">نتيجتك </string>
+    <string name="tryAgain">جرب مره اخري نتيجتك هي </string>
+    <string name="outOf"> من 5</string>
+    <string name="EnterNational">ادخل اسم المنتخب</string>
+    <string name="bestPlayer"> 2-من هو أفضل لاعب في 2005؟</string>
+    <string name="cristiano"> 3- لأي فريق يلعب كريستيانو رونالدو الآن؟</string>
+    <string name="salah">4-هل محمد صلاح فاز بجائزة أحسن لاعب في العالم؟</string>
+    <string name="worldCup"> 5-ما هو المنتحب الفائز بكأس العالم 2006؟</string>
+
+</resources>
