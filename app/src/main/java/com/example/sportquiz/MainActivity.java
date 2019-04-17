@@ -30,6 +30,9 @@ public class MainActivity extends AppCompatActivity {
     RatingBar rating;
     String lang , answer;
 
+    // git push origin
+    // git push lab
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
