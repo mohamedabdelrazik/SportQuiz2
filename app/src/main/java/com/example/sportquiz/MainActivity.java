@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
     RatingBar rating;
     String lang , answer;
 
+    // first commit in sport quiz
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -39,7 +40,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void initView(){
-//vvvv
         getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_HIDDEN);
         ques1ch1 = findViewById(R.id.ques1_cho1);
         ques1ch2 = findViewById(R.id.ques1_cho2);
