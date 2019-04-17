@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void initView(){
-
+//vvvv
         getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_HIDDEN);
         ques1ch1 = findViewById(R.id.ques1_cho1);
         ques1ch2 = findViewById(R.id.ques1_cho2);
